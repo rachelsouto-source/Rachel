@@ -1,0 +1,47 @@
+{
+  "project_name": "Novo Campeche Spot II",
+  "developer": "Nome da Incorporadora",
+  "location": {
+    "city": "Florianopolis",
+    "neighborhood": "Novo Campeche",
+    "beach_proximity": "500m",
+    "highlights": ["Praia do Campeche", "Novo polo gastronômico", "Acesso pela SC-405"]
+  },
+  "product": {
+    "type": "studio",
+    "area_m2": 17.5,
+    "units_total": 52,
+    "units_studios": 49,
+    "units_lojas": 3,
+    "delivery": "2027-Q2",
+    "finish": "premium",
+    "amenities": ["piscina", "coworking", "rooftop", "lavanderia compartilhada"]
+  },
+  "investment": {
+    "ticket_medio": 280000,
+    "daily_rate": 350,
+    "occupancy": 0.75,
+    "condo_fee": 450,
+    "management_fee": 0.20
+  },
+  "differentials": [
+    "Planta otimizada para short stay",
+    "Receita por m2 acima da media regional",
+    "Gestao profissional de locacao inclusa",
+    "Design pensado para nota maxima no Airbnb"
+  ],
+  "brand": {
+    "logo_path": null,
+    "font_path": null,
+    "primary_color": "#1a1a1a",
+    "accent_color": "#00c878"
+  },
+  "image_style": {
+    "extra_keywords": "tropical modern architecture, Florianopolis style"
+  },
+  "target_audience": {
+    "primary": "Investidores 30-55 anos, renda alta, buscando diversificacao",
+    "secondary": "Profissionais tech que querem renda passiva",
+    "pain_points": ["renda fixa rendendo pouco", "aluguel tradicional da trabalho", "quero investir em imovel mas nao quero gerir"]
+  }
+}

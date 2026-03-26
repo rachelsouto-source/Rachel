@@ -1,0 +1,11 @@
+node_modules/
+*.MOV
+*.mov
+*.mp4
+*.zip
+drive-download-*
+~$*
+.claude/
+output/composited/
+assets/V07/*.png
+assets/00 - OLD/

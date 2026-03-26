@@ -1,0 +1,33 @@
+{
+  "cdb": {
+    "name": "CDB 100% CDI",
+    "annual_rate": 12.5,
+    "description": "Certificado de Deposito Bancario atrelado ao CDI",
+    "risk": "low"
+  },
+  "poupanca": {
+    "name": "Poupanca",
+    "annual_rate": 7.5,
+    "description": "Caderneta de poupanca tradicional",
+    "risk": "very_low"
+  },
+  "tesouro_selic": {
+    "name": "Tesouro Selic",
+    "annual_rate": 13.0,
+    "description": "Titulo publico atrelado a taxa Selic",
+    "risk": "very_low"
+  },
+  "fii_media": {
+    "name": "FII (media mercado)",
+    "annual_rate": 10.0,
+    "description": "Fundos imobiliarios - dividend yield medio",
+    "risk": "medium"
+  },
+  "aluguel_tradicional": {
+    "name": "Aluguel Tradicional",
+    "annual_rate": 5.0,
+    "monthly_rate": 0.42,
+    "description": "Aluguel residencial longo prazo",
+    "risk": "low"
+  }
+}

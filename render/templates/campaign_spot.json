@@ -1,0 +1,72 @@
+{
+  "campaign_name": "SPOT Novo Campeche | Renda Inteligente",
+  "sequence": [
+    {
+      "day": 1,
+      "type": "hero",
+      "objective": "Impacto visual maximo - lancamento",
+      "platform": ["instagram_feed", "facebook_feed"],
+      "format": "single_image",
+      "copy_angle": "Localizacao + desejo"
+    },
+    {
+      "day": 2,
+      "type": "lifestyle",
+      "objective": "Gerar desejo - lifestyle praiano",
+      "platform": ["instagram_feed", "instagram_stories"],
+      "format": "single_image",
+      "copy_angle": "Viver perto do mar + investimento"
+    },
+    {
+      "day": 3,
+      "type": "educational",
+      "objective": "Educar sobre produto e short stay",
+      "platform": ["instagram_feed", "facebook_feed"],
+      "format": "carousel",
+      "slides": [
+        "Capa - O que e short stay?",
+        "Dados de mercado Floripa",
+        "Projeto otimizado para rentabilizar",
+        "Numeros reais de operacao",
+        "CTA - Fale com consultor"
+      ],
+      "copy_angle": "Arquitetura pensada para receita por m2"
+    },
+    {
+      "day": 4,
+      "type": "roi",
+      "objective": "Converter com numeros",
+      "platform": ["instagram_feed", "facebook_feed", "google_display"],
+      "format": "single_image",
+      "copy_angle": "ROI mensal + comparativo renda fixa"
+    },
+    {
+      "day": 5,
+      "type": "story_data",
+      "objective": "Dados em formato story - urgencia",
+      "platform": ["instagram_stories", "facebook_stories"],
+      "format": "story",
+      "copy_angle": "Ultimas unidades + dados de retorno"
+    }
+  ],
+  "retargeting": {
+    "audience": "Quem interagiu nos ultimos 7 dias",
+    "creatives": [
+      {
+        "type": "scarcity",
+        "copy_angle": "Ultimas X unidades disponiveis",
+        "urgency_level": "high"
+      },
+      {
+        "type": "social_proof",
+        "copy_angle": "Y unidades vendidas em Z dias",
+        "urgency_level": "medium"
+      },
+      {
+        "type": "comparison",
+        "copy_angle": "Enquanto voce pensa, CDI rende X%. Aqui rende Y%.",
+        "urgency_level": "high"
+      }
+    ]
+  }
+}

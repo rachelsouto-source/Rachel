@@ -1,0 +1,13 @@
+{
+  "campaigns": [],
+  "creatives": [],
+  "metadata": {
+    "version": "1.0",
+    "description": "Historico de performance de campanhas e criativos gerados"
+  },
+  "kpi_targets": {
+    "ctr_target": 2.0,
+    "cpl_target": 25.0,
+    "conversion_rate_target": 3.0
+  }
+}
