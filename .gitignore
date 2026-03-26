@@ -1,7 +1,6 @@
 node_modules/
 *.MOV
 *.mov
-*.mp4
 *.zip
 drive-download-*
 ~$*
@@ -9,3 +8,13 @@ drive-download-*
 output/composited/
 assets/V07/*.png
 assets/00 - OLD/
+video_filter.txt
+
+# Allow specific output files
+!output/dashboard/
+!output/dashboard/img/
+!output/*.mp4
+
+# Block root-level large videos
+/videoplayback.mp4
+/IMG_*.mp4
