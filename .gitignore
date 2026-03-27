@@ -5,16 +5,25 @@ node_modules/
 drive-download-*
 ~$*
 .claude/
-output/composited/
-assets/V07/*.png
-assets/00 - OLD/
+output/
+assets/
 video_filter.txt
+filter.txt
+criativos_exportados/
 
-# Allow specific output files
-!output/dashboard/
-!output/dashboard/img/
-!output/*.mp4
-
-# Block root-level large videos
+# Large files
+*.pdf
+*.pptx
 /videoplayback.mp4
 /IMG_*.mp4
+bb_*.png
+brandbook_*.png
+
+# Dev files
+screenshot_pdf*.js
+pdf_to_img.js
+capture_colors.js
+read_brandbook.js
+create_presentation.js
+view_pdf.html
+serve.cmd
